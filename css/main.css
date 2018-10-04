@@ -4,7 +4,7 @@ html {
   line-height: 1.5;
 }
 img {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
@@ -25,7 +25,6 @@ nav {
 
 nav ol {
   list-style-type: none;
-
 }
 
 nav a:hover {
@@ -33,6 +32,5 @@ nav a:hover {
   text-decoration: underline;
 }
 .intro {
-  font-size: 1rem
-
+  font-size: 1rem;
 }
